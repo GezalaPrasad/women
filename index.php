@@ -54,7 +54,7 @@ include 'components/wishlist_cart.php';
 
 
 
-<section class="section testimonial-section">
+<section class="section testimonial-section" id="story">
 <div class="text-center mb-5">
             <h2 class="testimonial-heading">What our community is saying</h2>
         </div>

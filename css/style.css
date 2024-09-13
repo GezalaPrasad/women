@@ -50,8 +50,8 @@ body{
 
 section{
    padding:2rem;
-   max-width: 1200px;
    margin:0 auto;
+   
 }
 
 .quote{
@@ -1154,6 +1154,8 @@ h1{
   margin-top: 15px;
   margin-bottom: 15px;
 }
+#blog{background-color: #FFF4EA;}
+
 .blog-grid .blog-img {
   position: relative;
   border-radius: 5px;
@@ -1240,8 +1242,13 @@ h1{
 
 /* testimonials */
 .testimonial-heading {
-	font-size: 2rem;
+	font-size: 3.5rem;
+   margin-top: 10px;
 	font-weight: bold;
+   color:#102C57;
+}
+.testimonial-section{
+   background-color: #FFF4EA;
 }
 .testimonial-subheading {
 	color: #6c757d;
@@ -1258,13 +1265,13 @@ h1{
 	font-weight: bold;
 }
 .rating {
-	color: #ffc107;
+	color: #DA0C81;
 }
 .rating-text {
-	color: #6c757d;
+	color: #102C57;
 }
 .featured-review {
-	background-color: #fdf6f0;
+	background-color: #FFB1B1;
 	box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
 }
 
