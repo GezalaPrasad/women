@@ -36,27 +36,31 @@ if (isset($_SESSION['user_id'])) {
    <?php include 'components/user_header.php'; ?>
    <section class="reviews">
       <h1 class="heading">About Us</h1>
-      <p class="usus">At Art Avenue, we believe that art has the power to transform spaces, evoke emotions, and inspire creativity. Our passion for art drives us to curate a collection that not only beautifies your surroundings but also tells a story, sparks conversations, and adds a touch of personality to your life. </p>
+      <p class="usus">At [Your Platform Name], we believe every woman deserves to feel safe and secure. Our mission is to create a technology-driven platform that empowers women to take control of their safety and build stronger communities. </p>
    </section>
    <section class="reviews">
       <h1 class="headin">🚀Our Mission </h1>
-      <p class="ususus">Our mission is to bridge the gap between artists and art lovers, providing a platform where talent meets appreciation. We strive to showcase diverse artworks that cater to different tastes, styles, and preferences. By supporting emerging and established artists, we contribute to the flourishing art ecosystem. </p>
+      <p class="ususus"> To provide a safe and supportive online platform for women to connect, share experiences, and access resources that enhance their safety and well-being.
+      </p>
    </section>
    <section class="reviews">
-      <h1 class="headin">💭Our Moto – Where Creativity meets Canvas </h1>
-      <p class="ususus">Our motto encapsulates our commitment to providing a vibrant platform where artistic expression flourishes. We believe in the powerful convergence of creativity and canvas, embracing diverse forms of art and welcoming both creators and enthusiasts to a space where inspiration knows no bounds. </p>
+      <h1 class="headin">💭Our Moto – Protecting What Matters </h1>
+      <p class="ususus"> To provide a safe and supportive online platform for women to connect, share experiences, and access resources that enhance their safety and well-being.
+      </p>
    </section>
    <section class="reviews">
       <h1 class="headin">🎨Our Story </h1>
-      <p class="ususus">Greetings art enthusiasts! We are a group of final year B.Tech students who share a profound love for art and technology. What started as a collective vision to bridge the gap between creators and enthusiasts has blossomed into The Art Avenue – Where Creativity meets Canvas, your go-to destination for an immersive art experience. </p>
+      <p class="ususus">  Our approach is rooted in [key values, such as empowerment, innovation, and community]. We leverage cutting-edge technology to provide [list of key features, such as SOS alerts, location tracking, and community forums]. By fostering a supportive community and partnering with [relevant organizations], we are working to create a world where women feel empowered, safe, and connected.
+      </p>
    </section>
    <section class="reviews">
       <h1 class="headin">💡 What Sets Us Apart  </h1>
-      <p class="ususus">Here at Art Avenue, we understand that every stroke of the brush and every pixel on the screen carries a story. Our platform is not just an e-commerce site; it's a canvas where artists can showcase their masterpieces, and art enthusiasts can discover and bring those creations into their lives. </p>
+      <p class="ususus">  Our approach is rooted in [key values, such as empowerment, innovation, and community]. We leverage cutting-edge technology to provide [list of key features, such as SOS alerts, location tracking, and community forums]. By fostering a supportive community and partnering with [relevant organizations], we are working to create a world where women feel empowered, safe, and connected.
+      </p>
    </section>
    <section class="reviews">
-      <h1 class="headin">🤝 Supporting Emerging Artists  </h1>
-      <p class="ususus">One of our core values is to support emerging artists. We provide a platform for talented creators to showcase their work to a global audience, fostering a community where art is appreciated and artists are recognized for their unique perspectives. </p>
+      <h1 class="headin">🤝 Support </h1>
+      <p class="ususus">"Empower yourself with knowledge and support. Our platform offers a wealth of educational resources, including informative articles, empowerment, and personal development.</p>
    </section>
 
 

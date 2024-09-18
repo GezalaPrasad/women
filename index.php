@@ -67,8 +67,8 @@ include 'components/wishlist_cart.php';
             <!-- Left Review -->
             <div class="col-lg-4 col-md-6 abcd">
                 <div class="testimonial-card p-4">
-                    <p>“I loved my stay here. The activities were plentiful, and the vibes were fantastic. The kitchen and living space had everything you need, plus the gym was a great amenity...”</p>
-                    <h6>Kiev B. <span class="rating">★ 4.5</span></h6>
+                    <p>“When I started receiving threatening messages online, me once-safe digital world quickly became a source of dread. The messages were filled with aggressive threats and invasive demands, leaving me feeling cornered and unsafe. Despite my attempts to block the sender and report the harassment, the fear lingered, casting a shadow over my daily life. With support from friends and a counselor, I began to regain my sense of security, learning to navigate the online space with greater caution while standing strong in me resolve to not let the threats define me....”</p>
+                    <h6>KB. <span class="rating">★ 4.5</span></h6>
                 </div>
             </div>
     
@@ -85,8 +85,8 @@ include 'components/wishlist_cart.php';
             <!-- Right Review -->
             <div class="col-lg-4 col-md-6">
                 <div class="testimonial-card p-4">
-                    <p>“I had an incredible time staying here. The place was peaceful and offered stunning views. There was a great sense of community, which I really appreciated...”</p>
-                    <h6>Daniel B. <span class="rating">★ 4.9</span></h6>
+                    <p>“After surviving a sexual assault, I faced my trauma with incredible courage. Despite the overwhelming fear and pain, I reported the assault and sought support, determined not to let the experience define me. Through therapy and the unwavering support of friends and family, I began to rebuild my life, transforming my pain into a source of strength. My bravery in confronting the assault and advocating for myself became a powerful testament to my resilience, inspiring others to find their own paths to healing and justice....”</p>
+                    <h6>DL. <span class="rating">★ 4.9</span></h6>
                 </div>
             </div>
         </div>
@@ -96,22 +96,22 @@ include 'components/wishlist_cart.php';
             <!-- Repeat this testimonial-card structure for each testimonial -->
             <div class="col-lg-4 col-md-6">
                 <div class="testimonial-card p-4">
-                    <p>“This is an extremely beautiful, modern house with everything you need for your stay. Claire is a nice host. She is doing everything that your stay is a whole pleasure...”</p>
-                    <h6>Matthias B. <span class="rating">★ 5.0</span></h6>
+                    <p>“As I struggled against an unwanted advance from a man at the festival, I felt a surge of panic and helplessness. Suddenly, Jake, who had noticed the uncomfortable scene from a few feet away, stepped in without hesitation. He approached calmly but assertively, placing himself between me and the man while addressing the situation with a firm, "I think  I made it clear I was not interested." His intervention not only helped diffuse the immediate threat but also provided Me with the reassurance and support I needed in that distressing moment, restoring my sense of safety and dignity....”</p>
+                    <h6>MB. <span class="rating">★ 5.0</span></h6>
                 </div>
             </div>
     
             <div class="col-lg-4 col-md-6">
                 <div class="testimonial-card p-4">
-                    <p>“I absolutely loved my time here. The people are incredibly kind, and the owner and staff do everything they can to make sure everyone feels part of a special community...”</p>
-                    <h6>Angela G. <span class="rating">★ 4.6</span></h6>
+                    <p>“When I spoke up about my colleague's inappropriate comments, I met with a dismissive wave and told I was "overreacting" and "too sensitive." Despite my clear discomfort I was made to feel as though I was imagining the harassment. This constant minimization led me to question my own perceptions and feelings, leaving me confused and doubting whether my experiences were valid. As a result, I felt isolated and powerless, struggling to find a way to address the behavior while battling the internalized uncertainty instilled by the gaslighting....”</p>
+                    <h6>AG. <span class="rating">★ 4.6</span></h6>
                 </div>
             </div>
     
             <div class="col-lg-4 col-md-6">
                 <div class="testimonial-card p-4">
-                    <p>“I stayed at this coliving space, and the views were absolutely incredible. It's definitely worth a visit if you're looking for a breathtaking scenery.”</p>
-                    <h6>Alex C. <span class="rating">★ 5.0</span></h6>
+                    <p>“I felt my heart race as my supervisor cornered me in the office, his hand lingering too long on my shoulder while he made suggestive comments about my appearance. Despite my attempts to deflect and make it clear I was uncomfortable, his advances persisted. The encounter left me feeling violated and distressed, questioning whether I could safely continue working in the environment. The harassment not only undermined my sense of security but also made me anxious about speaking up, fearing retaliation and further humiliation..”</p>
+                    <h6>Al. <span class="rating">★ 5.0</span></h6>
                 </div>
             </div>
     
